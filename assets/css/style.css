@@ -915,6 +915,8 @@ hr {
 8. Slider
 -
 ---------------------------------------------------------------*/
+
+
 .st-hero-wrap {
   position: relative;
   height: 850px;
@@ -956,7 +958,7 @@ hr {
 }
 
 .st-hero.st-style1 .st-hero-text h1 {
-  font-size: 120px;
+  font-size: 100px;
   margin-bottom: 24px;
   font-weight: 900;
   color: #fdfeff;
